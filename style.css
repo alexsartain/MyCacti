@@ -18,7 +18,7 @@
 .mam{
     display:inline;
     font-family:helvetica;
-    font-size:1.2em;
+ font-size:1.75em;
 
 }
 #mampic{
@@ -33,7 +33,7 @@
 .eup{
     display:inline;
     font-family:helvetica;
-    font-size:1.2em;
+ font-size:1.75em;
 	float:left;
 }
 #euppic{
@@ -46,7 +46,7 @@ margin-right:8px;
 .ech{
     display:inline;
     font-family:helvetica;
-    font-size:1.2em;
+ font-size:1.75em;
 	float:left;
 }
 #echpic{
@@ -60,7 +60,7 @@ margin-right:8px;
 .cep{
     display:inline;
     font-family:helvetica;
-    font-size:1.2em;
+ font-size:1.75em;
 	float:left;
 }
 #ceppic{
@@ -74,7 +74,7 @@ margin-right:8px;
 .aus{
     display:inline;
     font-family:helvetica;
-    font-size:1.2em;
+ font-size:1.75em;
 	float:left;
 }
 #auspic{
@@ -88,7 +88,7 @@ margin-right:8px;
 .opu{
     display:inline;
     font-family:helvetica;
-    font-size:1.2em;
+    font-size:1.75em;
 	float:left;
 }
 #opupic{
