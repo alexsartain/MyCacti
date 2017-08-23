@@ -19,6 +19,7 @@
     display:inline;
     font-family:helvetica;
  font-size:1.75em;
+	margin-left:30px;
 
 }
 #mampic{
@@ -35,6 +36,7 @@
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
+	margin-left:30px;
 }
 #euppic{
     height:60%;
@@ -48,6 +50,7 @@ margin-right:8px;
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
+	margin-left:30px;
 }
 #echpic{
     height:60%;
@@ -62,6 +65,7 @@ margin-right:8px;
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
+	margin-left:30px;
 }
 #ceppic{
     height:60%;
@@ -76,6 +80,7 @@ margin-right:8px;
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
+	margin-left:30px;
 }
 #auspic{
     height:60%;
@@ -90,6 +95,7 @@ margin-right:8px;
     font-family:helvetica;
     font-size:1.75em;
 	float:left;
+	margin-left:30px;
 }
 #opupic{
     height:60%;
