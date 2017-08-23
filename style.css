@@ -5,6 +5,7 @@
      margin-left:40%;
 	 height:521px;
 	 width:926px;
+	padding-right:100px;
 }
 
 
@@ -19,14 +20,14 @@
     display:inline;
     font-family:helvetica;
  font-size:1.75em;
-	padding-right:60px;
+	padding-right:100px;
 
 }
 #mampic{
     height:60%;
     width:30%;     
     float:left;
-    margin-right:8px;
+    margin-right:9px;
 }
 
 
@@ -35,7 +36,7 @@
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
-	padding-right:60px;
+	padding-right:100px;
 }
 #euppic{
     height:60%;
@@ -49,7 +50,7 @@ margin-right:8px;
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
-	padding-right:60px;
+	padding-right:100px;
 }
 #echpic{
     height:60%;
@@ -64,7 +65,7 @@ margin-right:8px;
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
-padding-right:60px;
+padding-right:100px;
 }
 #ceppic{
     height:60%;
@@ -79,7 +80,7 @@ margin-right:8px;
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
-	padding-right:60px;
+	padding-right:100px;
 }
 #auspic{
     height:60%;
@@ -94,7 +95,7 @@ margin-right:8px;
     font-family:helvetica;
     font-size:1.75em;
 	float:left;
-	padding-right:60px;
+	padding-right:100px;
 }
 #opupic{
     height:60%;
