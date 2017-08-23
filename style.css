@@ -1,12 +1,10 @@
 .title{
      background-image:url(http://i.imgur.com/xLqIYMR.jpg);
      background-repeat:no-repeat;
-     max-height:100%;
-     max-width:100%;
-     width:100%;
-     height:60%;
      font-family:helvetica;
      margin-left:20%;
+	 height:521px;
+	 width:926px;
 }
 
 
@@ -21,12 +19,14 @@
     display:inline;
     font-family:helvetica;
     font-size:1.2em;
+
 }
 #mampic{
-    height:667px;
-    width:375px;     
+    height:60%;
+    width:30%;     
     float:left;
     margin-right:8px;
+	margin-bottom:10px;
 }
 
 
@@ -34,58 +34,67 @@
     display:inline;
     font-family:helvetica;
     font-size:1.2em;
+	float:left;
 }
 #euppic{
-   height:667px;
-    width:375px;      
+    height:60%;
+    width:30%;     
     float:left;
-    margin-right:8px;
+margin-right:8px;
 }
 
 .ech{
     display:inline;
     font-family:helvetica;
     font-size:1.2em;
+	float:left;
 }
 #echpic{
-    height:667px;
-    width:375px;       
+    height:60%;
+    width:30%;     
     float:left;
-    margin-right:8px;
+margin-bottom:10px;
+margin-right:8px;
 }
 
 .cep{
     display:inline;
     font-family:helvetica;
     font-size:1.2em;
+	float:left;
 }
 #ceppic{
-    height:667px;
-    width:375px;       
+    height:60%;
+    width:30%;     
     float:left;
-    margin-right:8px;
+margin-bottom:10px;
+margin-right:8px;
 }
 
 .aus{
     display:inline;
     font-family:helvetica;
     font-size:1.2em;
+	float:left;
 }
 #auspic{
-    height:667px;
-    width:375px;     
+    height:60%;
+    width:30%;     
     float:left;
-    margin-right:8px;
+margin-bottom:10px;
+margin-right:8px;
 }
 
 .opu{
     display:inline;
     font-family:helvetica;
     font-size:1.2em;
+	float:left;
 }
 #opupic{
-    height:667px;
-    width:375px;      
+    height:60%;
+    width:30%;     
     float:left;
-    margin-right:8px;
+margin-bottom:10px;
+margin-right:8px;
 }
