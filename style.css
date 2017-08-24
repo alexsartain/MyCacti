@@ -1,14 +1,11 @@
-
 .title{
      background-image:url(http://i.imgur.com/xLqIYMR.jpg);
      background-repeat:no-repeat;
      font-family:helvetica;
-     margin-left:40%;
+     margin-left:20%;
 	 height:521px;
 	 width:926px;
-	padding-right:100px;
 }
-
 
 
 #titletext{
@@ -16,23 +13,20 @@
      color:white;
      background-color:green;
      font-size:3em;
-	text-align:middle;
 }
 
 .mam{
     display:inline;
     font-family:helvetica;
  font-size:1.75em;
-	padding-right:100px;
-	float:left;
-	text-align:right;
 
 }
 #mampic{
     height:60%;
     width:30%;     
     float:left;
-    margin-right:9px;
+    margin-right:8px;
+	margin-bottom:10px;
 }
 
 
@@ -41,7 +35,6 @@
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
-	padding-right:100px;
 }
 #euppic{
     height:60%;
@@ -55,7 +48,6 @@ margin-right:8px;
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
-	padding-right:100px;
 }
 #echpic{
     height:60%;
@@ -70,7 +62,6 @@ margin-right:8px;
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
-padding-right:100px;
 }
 #ceppic{
     height:60%;
@@ -85,7 +76,6 @@ margin-right:8px;
     font-family:helvetica;
  font-size:1.75em;
 	float:left;
-	padding-right:100px;
 }
 #auspic{
     height:60%;
@@ -100,7 +90,6 @@ margin-right:8px;
     font-family:helvetica;
     font-size:1.75em;
 	float:left;
-	padding-right:100px;
 }
 #opupic{
     height:60%;
